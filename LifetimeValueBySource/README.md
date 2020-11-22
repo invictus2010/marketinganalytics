@@ -191,10 +191,12 @@ You’ve done the hard part! You’ve calculated LTV for each customer.
 
 ### Resources
 
-
-[Lifetimes Python Library](https://lifetimes.readthedocs.io/en/latest/)
-
-[Why You Need to Calculate CLV](https://www.youtube.com/watch?v=guj2gVEEx4s)
+🤙[More of This Stuff](https://jwithing.com/?utm_source=referral&utm_medium=web&utm_campaign=github&utm_term=lifetimevaluebysource)
+✍️ [Derivation of the LTV Model](http://www.brucehardie.com/notes/039/)
+👶[Non-Statistician Guide to the Model](http://www.brucehardie.com/notes/032/)
+🐍[Lifetimes Python Library](https://lifetimes.readthedocs.io/en/latest/)
+👨‍🏫[Why You Need to Calculate CLV](https://www.youtube.com/watch?v=guj2gVEEx4s)
+📊[How to Model LTV in Excel](http://www.brucehardie.com/notes/004/)
 
 ### Addendum for More Stats
 
